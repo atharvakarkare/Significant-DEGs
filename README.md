@@ -1,14 +1,14 @@
 # Significant-DEGs
 The R-Script provides an easy way to filter the top table and get DEGs.
 
-##Getting started##
+###Getting started###
 
-Set the working directory, give path to folder.
+Set the working directory, and give the path to the folder where output files will be stored.
 install and load required packages from CRAN or BIOCONDUCTOR.
 Execute the script
 
-##Outputs##
-The output file will be of four conditions:
+###Output###
+The output file will be of four conditions with names:
 
 1. gp(greater than 0.5) = p<=0.05,LogFC >0.5
 
